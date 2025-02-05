@@ -183,23 +183,23 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/
   - _pages/dropdown.md
+  - _news/
   - _includes/news.liquid
+  - _pages/blog.md
   - _layouts/archive-year.liquid
+  - _layouts/archive-tag.liquid
+  - _posts/
+  - _layouts/archive-category.liquid
+  - _includes/latest_posts.liquid
   - _plugins/external-posts.rb
-  - _includes/projects.liquid
   - _includes/related_posts.liquid
   - _includes/repository
-  - _pages/projects.md
-  - _posts/
-  - _layouts/archive-tag.liquid
   - _projects/
-  - _pages/blog.md
-  - layouts/archive-category.liquid
-  - _includes/latest_posts.liquid
-  - _pages/repositories.md
+  - _pages/projects.md
+  - _includes/projects.liquid
   - _includes/projects_horizontal.liquid
+  - _pages/repositories.md
 
 keep_files:
   - CNAME
